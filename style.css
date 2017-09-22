@@ -1,0 +1,26 @@
+/* style.css */
+body{ 
+  background: rgba(120,125,159,0.8);
+  color: rgba(200,0,150,0,8);
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Roboto Condensed;
+  color: black;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Source Sans Pro;
+  color: pink;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: green;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
